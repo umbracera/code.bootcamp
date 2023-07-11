@@ -20,4 +20,26 @@ h2{
 nav{
     border-style: dashed;
     border-radius: 10 px;
+    padding: 10 px;
+    float: right;
+
+}
+nav ul{
+    margin:0;
+    padding:0;
+
+}
+nav li{ 
+    display: inline;
+    margin-right: 10px;
+    
+}
+nav #a{
+    color: #ffe74c;
+}
+nav #b{
+    color: #e958b6;
+}
+nav #c{
+    color: #42f2f7;
 }
