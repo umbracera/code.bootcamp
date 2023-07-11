@@ -3,6 +3,7 @@
 h1{
     float: left;
     padding-right: 75%;
+    font-family: ;
 }
 h2{
     float: right;
@@ -16,7 +17,7 @@ h2{
 .manga {
     color:yellow;
 }
-#nav{
-    border-style: outset;
+nav{
+    border-style: dashed;
     border-radius: 10 px;
 }
