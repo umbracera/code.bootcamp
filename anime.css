@@ -1,7 +1,22 @@
+
+
 h1{
     float: left;
     padding-right: 75%;
 }
 h2{
     float: right;
+}
+.shonen {
+    color: blue;
+}
+.shoujo {
+    color: red;
+}
+.manga {
+    color:yellow;
+}
+#nav{
+    border-style: outset;
+    border-radius: 10 px;
 }
