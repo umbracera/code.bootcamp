@@ -1,1 +1,7 @@
-
+h1{
+    float: left;
+    padding-right: 75%;
+}
+h2{
+    float: right;
+}
