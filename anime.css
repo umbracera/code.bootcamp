@@ -1,12 +1,11 @@
-
-
 h1{
     float: left;
-    padding-right: 75%;
-    font-family: ;
+    padding-right: 25%;
+    font-family:'Nova Slim', monospace ;
 }
-h2{
+ul{
     float: right;
+    font-family: 'Nova Slim', monospace;
 }
 .shonen {
     color: blue;
