@@ -14,6 +14,7 @@ nav{
     border-radius: 10 px;
     padding: 10 px;
     float: right;
+    font-family: 'Nova Slim',monospace;
 
 }
 nav ul{
@@ -41,4 +42,10 @@ div{
 }
 main{
    display:flex;
+   align-items: center;
+   justify-content:space-around;
+}
+div{
+    max-width: 10px;
+    max-height: 50px
 }
