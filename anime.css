@@ -3,10 +3,11 @@
 h1{
     float: left;
     padding-right: 75%;
-    font-family: ;
+    font-family: Nova Slim, monospace;
 }
 h2{
     float: right;
+    font-family: 
 }
 .shonen {
     color: blue;
@@ -22,6 +23,7 @@ nav{
     border-radius: 10 px;
     padding: 10 px;
     float: right;
+    font-family: Nova Slim, monospace;
 
 }
 nav ul{
