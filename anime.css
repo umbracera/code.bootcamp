@@ -47,15 +47,17 @@ nav #a{
     
     
 }
-nav #a:onclick{
-    background-color:black;
-    
+nav #a:hover{
+    border-style: inset;
+    border-color:#802560;
 }
-nav #b:onclick{
-    background-color:black;
+nav #b:hover{
+    border-style:inset;
+    border-color:#796c17;
 }
-nav #c:onclick{
-    background-color:black;
+nav #c:hover{
+    border-style: inset;
+    border-color:#0e6d70;
 }
 
 nav #b{
