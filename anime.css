@@ -21,7 +21,7 @@ nav ul{
     padding:0;
 
 }
-nav li{ 
+nav li { 
     display: inline;
     margin-right: 10px;
     text-decoration: none;
@@ -29,11 +29,14 @@ nav li{
     border-radius: 10px;
     
 }
+nav li a {
+    text-decoration:none;
+}
 nav #a{
     color: #ffe74c;
     border-radius: 10px;
     font-size: 40px;
-    text-decoration:none;
+    
     
 }
 nav #a:hover{
@@ -55,12 +58,10 @@ nav #a{
 nav #b{
    background-color: #e958b6;
    font-size: 40px;
-   text-decoration:none;
 }
 nav #c{
     background-color: #42f2f7;
     font-size: 40px;
-    text-decoration:none;
 }
 div{
     border-style: solid;
@@ -72,7 +73,7 @@ div{
    align-items: flex-end;
    justify-content:space-evenly;
    row-gap: 20px;
-   padding-right: 450px;
+   padding-right: 650px;
    padding-top: 200px;
 
 }
@@ -104,7 +105,14 @@ img{
 .barrier {
     background-color:lightblue;
 }
-li #home{
+nav #home{
     background-color: lightblue;
+    font-size: 40px;
 
+}
+p{
+    align-content: flex-end;
+    font-family: 'Ubuntu',serif;
+    padding-top: 400px;
+    float:right;
 }
