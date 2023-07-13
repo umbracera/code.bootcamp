@@ -32,6 +32,7 @@ nav li{
 nav #a{
     color: #ffe74c;
     border-radius: 10px;
+    font-size: 40px;
     
     
 }
@@ -53,9 +54,11 @@ nav #a{
 }
 nav #b{
    background-color: #e958b6;
+   font-size: 40px;
 }
 nav #c{
     background-color: #42f2f7;
+    font-size: 40px;
 }
 div{
     border-style: solid;
