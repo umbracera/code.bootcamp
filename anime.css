@@ -61,13 +61,13 @@ img{
 }
 
  .shonen {
-        flex: 1 1 auto;
+        flex: 2 1 content;
       }
 
 .shojo {
-        flex: 1 1 auto;
+        flex: 2 1 content;
       }
 
  .manga {
-        flex: 1 1 auto;
+        flex: 2 1 content;
       }
