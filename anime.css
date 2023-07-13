@@ -68,18 +68,24 @@ img{
 
  .shonen {
         flex: 2 1 content;
-        color: #ffe74c;
+        background-color: #ffe74c;
+        border-color:#ffe74c;
       }
 
 .shojo {
         flex: 2 1 content;
-       color: #e958b6;
+       background-color: #e958b6;
+       border-color:#e958b6;
       }
 
  .manga {
         flex: 2 1 content;
-        color:#42f2f7;
+        background-color:#42f2f7;
+        border-color:#42f2f7;
       }
 #rando{
    border-style: none;
+}
+.barrier{
+    background-color:lightblue;
 }
