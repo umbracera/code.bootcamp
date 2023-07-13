@@ -2,6 +2,7 @@ h1{
     float: left;
     padding-right: 25%;
     font-family:'Nova Slim', monospace ;
+    size: 500px;
 }
 ul{
     float: right;
@@ -53,7 +54,8 @@ div{
    align-items: flex-end;
    justify-content:space-evenly;
    row-gap: 20px;
-   padding-right: 50px;
+   padding-right: 200px;
+   padding-top: 200px;
 
 }
 img{
