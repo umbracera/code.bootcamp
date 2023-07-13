@@ -46,8 +46,7 @@ nav #c{
 div{
     border-style: solid;
     border-radius: 10px;
-    max-width: 10px;
-    max-height: 50px
+   
 }
 .cards{
    display:flex;
@@ -60,3 +59,15 @@ img{
     width:  300px;
     height: 400px;
 }
+
+ .shonen {
+        flex: 1 1 auto;
+      }
+
+.shojo {
+        flex: 1 1 auto;
+      }
+
+ .manga {
+        flex: 1 1 auto;
+      }
