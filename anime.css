@@ -39,8 +39,17 @@ nav #a:hover{
     color:#42f2f7
 }
 nav #a:click{
-    background-color:#ffe74c;
+    background-color:black;
     
+}
+nav #b:click{
+    background-color:black;
+}
+nav #c:click{
+    background-color:black;
+}
+nav #a{
+    background-color:#ffe74c;
 }
 nav #b{
    background-color: #e958b6;
@@ -87,6 +96,10 @@ img{
 #rando{
    border-style: none;
 }
-.barrier{
+.barrier {
     background-color:lightblue;
+}
+li #home{
+    background-color: lightblue;
+
 }
