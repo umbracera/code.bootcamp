@@ -53,6 +53,7 @@ div{
    align-items: flex-end;
    justify-content:space-evenly;
    row-gap: 20px;
+   padding-right: 50px;
 
 }
 img{
