@@ -2,7 +2,7 @@ h1{
     float: left;
     padding-right: 25%;
     font-family:'Nova Slim', monospace ;
-    size: 500px;
+    font-size: 80px;
 }
 ul{
     float: right;
@@ -74,3 +74,6 @@ img{
  .manga {
         flex: 2 1 content;
       }
+#rando{
+   border-style: none;
+}
