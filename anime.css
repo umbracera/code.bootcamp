@@ -43,18 +43,18 @@ nav #a{
     height: 20px;
     width: 20px;
     margin: 3;
-    padding: 5px 5px;
+    padding: 10px 5px;
     
     
 }
-nav #a:click{
+nav #a:onclick{
     background-color:black;
     
 }
-nav #b:click{
+nav #b:onclick{
     background-color:black;
 }
-nav #c:click{
+nav #c:onclick{
     background-color:black;
 }
 
@@ -64,7 +64,7 @@ nav #b{
    height: 20px;
    width: 20px;
    margin: 3;
-   padding: 5px 5px;
+   padding: 10px 5px;
    border-style:outset;
    border-color:#e958b6;
 }
@@ -74,7 +74,7 @@ nav #c{
     height: 20px;
     width: 20px;
     margin: 3;
-    padding: 5px 5px;
+    padding: 10px 5px;
     border-style: outset;
     border-color:#42f2f7;
 }
@@ -127,7 +127,9 @@ nav #home{
     height: 20px;
     width: 20px;
     margin: 3;
-    padding: 5px 5px;
+    padding: 10px 5px;
+    border-style: outset;
+    border-color: lightblue;
 
 }
 p{
