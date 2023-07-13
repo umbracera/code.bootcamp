@@ -27,6 +27,7 @@ nav li {
     text-decoration: none;
     text-align:right;
     border-radius: 10px;
+   
     
 }
 nav li a {
@@ -36,11 +37,15 @@ nav #a{
     color: #ffe74c;
     border-radius: 10px;
     font-size: 40px;
+    background-color:#ffe74c;
+    border-style:outset;
+    border-color:#ffe74c;
+    height: 20px;
+    width: 20px;
+    margin: 3;
+    padding: 5px 5px;
     
     
-}
-nav #a:hover{
-    color:#42f2f7
 }
 nav #a:click{
     background-color:black;
@@ -52,16 +57,26 @@ nav #b:click{
 nav #c:click{
     background-color:black;
 }
-nav #a{
-    background-color:#ffe74c;
-}
+
 nav #b{
    background-color: #e958b6;
    font-size: 40px;
+   height: 20px;
+   width: 20px;
+   margin: 3;
+   padding: 5px 5px;
+   border-style:outset;
+   border-color:#e958b6;
 }
 nav #c{
     background-color: #42f2f7;
     font-size: 40px;
+    height: 20px;
+    width: 20px;
+    margin: 3;
+    padding: 5px 5px;
+    border-style: outset;
+    border-color:#42f2f7;
 }
 div{
     border-style: solid;
@@ -86,6 +101,7 @@ img{
         flex: 2 1 content;
         background-color: #ffe74c;
         border-color:#ffe74c;
+        
       }
 
 .shojo {
@@ -108,11 +124,17 @@ img{
 nav #home{
     background-color: lightblue;
     font-size: 40px;
+    height: 20px;
+    width: 20px;
+    margin: 3;
+    padding: 5px 5px;
 
 }
 p{
-    align-content: flex-end;
+    
+    justify-content: right;
     font-family: 'Ubuntu',serif;
     padding-top: 400px;
     float:right;
+
 }
